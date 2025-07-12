@@ -14,8 +14,6 @@
   defaultBranch = main
 [web]
   browser = google-chrome
-[credential]
-  helper = osxkeychain
 [push]
   default = simple
 [merge]
